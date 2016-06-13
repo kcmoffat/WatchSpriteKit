@@ -4,6 +4,16 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>WatchSpriteKit Test.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>WatchSpriteKit Watch App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>WatchSpriteKit.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -18,6 +28,11 @@
 			<true/>
 		</dict>
 		<key>3B4453D81CB78EB6009F9DD1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3B4453E91CB78EFC009F9DD1</key>
 		<dict>
 			<key>primary</key>
 			<true/>
